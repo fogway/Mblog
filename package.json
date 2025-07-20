@@ -1,0 +1,19 @@
+{
+  "name": "vue-ecommerce",
+  "version": "1.0.0",
+  "description": "Vue.js电子商城应用",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "@vitejs/plugin-vue": "^4.3.4",
+    "vite": "^4.4.9"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.0"
+  }
+}
